@@ -3,7 +3,6 @@ body {
     padding: 0;
 }
 header {
-    background-color: #333;
 }
 header h1 {
     font-size: 28px;
@@ -83,4 +82,7 @@ footer p {
 }
 .colorwhite{
    color:white;
+}
+.back333{
+    background:#333;
 }
