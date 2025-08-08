@@ -2,30 +2,25 @@ body {
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #333;
 }
-
 header h1 {
     font-size: 28px;
     color: white;
 }
-
 nav a {
     color: white;
     text-decoration: none;
     margin-right: 15px;
     font-size: 16px;
 }
-
 section {
     margin: 20px;
 }
 
 section h2 {
     font-size: 22px;
-    color: #333;
 }
 
 section div {
@@ -35,7 +30,6 @@ section div {
 
 section div h3 {
     font-size: 18px;
-    color: #333;
 }
 
 section div p {
@@ -59,7 +53,6 @@ aside {
 
 aside h2 {
     font-size: 20px;
-    color: #333;
 }
 
 aside ul {
@@ -88,4 +81,10 @@ footer p {
 }
 .border1{
     border: 1px solid #ccc;
+}
+.color333{
+   color:#333;
+}
+.colorwhite{
+   color:white;
 }
